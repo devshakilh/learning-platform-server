@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "name": "HTML",
+        "image": "https://html.com/wp-content/uploads/html-hpg-featured-new.png"
+    },
+    {
+        "id": "02",
+        "name": "CSS",
+        "image": "https://www.dreamhost.com/blog/wp-content/uploads/2022/07/Learn-CSS-Social.jpg"
+    },
+    {
+        "id": "03",
+        "name": "JAVASCRIPT",
+        "image": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png"
+    },
+    {
+        "id": "04",
+        "name": "PHP",
+        "image": "https://www.educative.io/v2api/editorpage/5655131962998784/image/5868314577338368"
+    },
+    {
+        "id": "05",
+        "name": "PYTHON",
+        "image": "https://www.heliossolutions.co/blog/wp-content/uploads/2019/08/titleImage-phython.jpg"
+    },
+    {
+        "id": "06",
+        "name": "WORDPRESS",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUf0MDMPOp42VRHe3rJaxWk9caKMdutFMDhQ&usqp=CAU"
+    }
+]

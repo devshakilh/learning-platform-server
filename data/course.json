@@ -1,0 +1,86 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "id": "01",
+        "name": "HTML",
+        "price": "$300",
+        "image": "https://html.com/wp-content/uploads/html-hpg-featured-new.png",
+        "author": {
+            "name": "Shakil Hossain",
+            "enroll": "430",
+            "rating": "4.5",
+            "img": "https://pynative.com/wp-content/uploads/2019/01/vishalHule.jpg"
+        },
+        "short_des": " commonly abbreviated as HTML, is the standard markup language used to create web pages"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6ab",
+        "id": "02",
+        "name": "CSS",
+        "price": "$300",
+        "image": "https://www.dreamhost.com/blog/wp-content/uploads/2022/07/Learn-CSS-Social.jpg",
+        "author": {
+            "name": "Shakil Hossain",
+            "enroll": "330",
+            "rating": "4.5",
+            "img": "https://pynative.com/wp-content/uploads/2019/01/vishalHule.jpg"
+        },
+        "short_des": "Level up your web styling expertise with our easy to understand CSS fundamentals course."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6ac",
+        "id": "03",
+        "price": "$300",
+        "name": "JAVASCRIPT",
+        "image": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png",
+        "author": {
+            "name": "Shakil Hossain",
+            "enroll": "300",
+            "rating": "4.5",
+            "img": "https://pynative.com/wp-content/uploads/2019/01/vishalHule.jpg"
+        },
+        "short_des": "In this course, you will learn about JavaScript data types, built-in methods, and variables. "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "id": "04",
+        "name": "PHP",
+        "price": "$300",
+        "image": "https://www.educative.io/v2api/editorpage/5655131962998784/image/5868314577338368",
+        "author": {
+            "name": "Shakil Hossain",
+            "enroll": "550",
+            "rating": "4.5",
+            "img": "https://pynative.com/wp-content/uploads/2019/01/vishalHule.jpg"
+        },
+        "short_des": "This PHP tutorial covers all the topics of PHP such as introduction, ling,"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "id": "05",
+        "price": "$300",
+        "name": "PYTHON",
+        "image": "https://www.heliossolutions.co/blog/wp-content/uploads/2019/08/titleImage-phython.jpg",
+        "author": {
+            "name": "Shakil Hossain",
+            "enroll": "420",
+            "rating": "4.5",
+            "img": "https://pynative.com/wp-content/uploads/2019/01/vishalHule.jpg"
+        },
+        "short_des": "This course is designed to teach you the foundations in order to write simple programs in Python"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "id": "06",
+        "price": "$300",
+        "name": "WORDPRESS",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUf0MDMPOp42VRHe3rJaxWk9caKMdutFMDhQ&usqp=CAU",
+        "author": {
+            "name": "Shakil Hossain",
+            "enroll": "360",
+            "rating": "4.5",
+            "img": "https://pynative.com/wp-content/uploads/2019/01/vishalHule.jpg"
+        },
+        "short_des": "Learn how to use WordPress to build a website or blog."
+    }
+]
