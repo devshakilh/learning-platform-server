@@ -26,3 +26,7 @@ app.get('/course-premium/:_id', (req, res) => {
     res.send(cheekOut);
 
 });
+app.listen(port, () => {
+    console.log('Course Details server running on port', port);
+
+})
