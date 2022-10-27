@@ -10,3 +10,6 @@ const course = require('./data/course.json');
 app.get('/', (req, res) => {
     res.send('Course API Running')
 });
+app.get('/course-categories', (req, res) => {
+    res.send(categories)
+});
