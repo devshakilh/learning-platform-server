@@ -56,6 +56,20 @@
         "short_des": "This PHP tutorial covers all the topics of PHP such as introduction, ling,"
     },
     {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "id": "05",
+        "price": "$300",
+        "name": "PYTHON",
+        "image": "https://www.heliossolutions.co/blog/wp-content/uploads/2019/08/titleImage-phython.jpg",
+        "author": {
+            "name": "Shakil Hossain",
+            "enroll": "420",
+            "rating": "4.5",
+            "img": "https://pynative.com/wp-content/uploads/2019/01/vishalHule.jpg"
+        },
+        "short_des": "This course is designed to teach you the foundations in order to write simple programs in Python"
+    },
+    {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
         "id": "06",
         "price": "$300",
