@@ -13,3 +13,16 @@ app.get('/', (req, res) => {
 app.get('/course-categories', (req, res) => {
     res.send(categories)
 });
+app.get('/course-details/:id', (req, res) => {
+    const id = req.params.id;
+
+    const selectedCourse = course.filter(n => n.id == id);
+    res.send(selectedCourse);
+    console.log(id);
+});
+app.get('/course-premium/:_id', (req, res) => {
+    const _id = req.params._id;
+    const cheekOut = course.filter(h => h._id == _id);
+    res.send(cheekOut);
+
+});
